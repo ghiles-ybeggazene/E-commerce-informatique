@@ -1,0 +1,14 @@
+body
+{
+	background-color: black;
+}
+input{
+padding-right: 5px !important;
+}
+label{
+	color:red;
+}
+.radio label {
+	padding-left: 40px;
+	color:white;
+}

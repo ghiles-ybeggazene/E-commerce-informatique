@@ -1,0 +1,68 @@
+.encadre
+{
+   font-weight:bold; 
+	border: 1px solid black;
+	border-radius:10px;
+	
+}
+.image
+{
+background-color: black;
+
+}
+.top{
+
+margin-top: 20mm;	
+}
+.la_marge
+{
+padding: 5px 5px;
+
+}
+h1
+{   border:1px solid white;	
+	text-align: center;
+}
+table
+{
+	margin-top: 5px;
+	width: 100%;
+	color:#717375;
+	border-collapse:collapse;
+}
+td
+
+{
+	
+border:1px solid black;
+
+padding-left: 10px;	
+}
+th{ color:white;
+	border:1px solid white;
+	height: 30px;
+	background-color:black;
+	padding-top: 10px;
+	padding-left: 10px;
+}
+
+.ted
+{
+width: 15%;
+
+}
+.ted1{
+width: 27%;	
+}
+h3
+{
+	text-decoration:underline;
+	color:blue;
+}
+.red{
+	color:red;
+}
+.row
+{
+margin-bottom: 40px;	
+}

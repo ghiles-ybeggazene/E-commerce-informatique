@@ -1,0 +1,69 @@
+ .page
+ {
+ 	background-color: black;
+ 	width: 100%;
+ 	height:550px;
+ }
+ .fm
+ {
+ 	background-color: black;
+ 	 
+ }
+ .fm1
+ {
+ 	margin-top: 20px;
+ }
+ 	
+ 
+ label
+ {
+ 	color: red;
+ }
+ .alert
+ {
+ 	background: white;
+ 	background-size: cover;
+ }
+ .bjs
+ { height: 40px;
+ 	width: 160px;
+ 	background-color: white;
+
+ 	
+ }
+p 
+ { font-weight: bold;
+ 	color:black;
+ 	margin: 3px 0 10px;
+ }
+ .bphp
+ {
+ 	height: 40px;
+ 	width: 120px;
+ 	margin-top: 50px;
+ 	
+
+ }
+ .well
+ {background-color: black;
+ background-size: cover;
+ 	margin-top: 10px;
+ }
+ 
+ .panel-heading 
+ {
+ 	height:50px;
+ }
+.titre
+{
+	margin-top: -5px;
+  margin-bottom: 10px;
+}
+.t
+{
+	margin-right:5px;
+}
+body{
+	overflow:auto;
+	 
+}
